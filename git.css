@@ -1,10 +1,11 @@
 body {
-    background-color: #666699;
+    background-color: #B60B20;
 }
 
 h1 {
+    font-weight: bold;
     font-size: 100px;
-    color: #ffffff;
+    color: #14793A;
     text-align: center;
     font-family: 'Caveat', cursive;
 }
