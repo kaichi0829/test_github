@@ -1,11 +1,8 @@
-body {
-    background-color: #B60B20;
+*{
+    font-family: serif;
 }
 
-h1 {
-    font-weight: bold;
-    font-size: 100px;
-    color: #14793A;
-    text-align: center;
-    font-family: 'Caveat', cursive;
+.content {
+    margin-top: 60px;
+    width: 60%;
 }
