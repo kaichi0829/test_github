@@ -4,5 +4,9 @@
 
 .content {
     margin-top: 60px;
-    width: 60%;
+    width: 70%;
+}
+
+@media (max-width: 646px) {
+
 }
